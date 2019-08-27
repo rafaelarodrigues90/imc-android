@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Índice de Massa Corporal (IMC)</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="txt_peso">Peso</string>
+    <string name="txt_altura">Altura</string>
+
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="hintPeso">60</string>
+    <string name="hintAltura">1.70</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
